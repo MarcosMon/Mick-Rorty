@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\sysma\Desktop\PracticaExamen\Mick-Rorty\.metadata\.plugins\org.eclipse.jdt.core

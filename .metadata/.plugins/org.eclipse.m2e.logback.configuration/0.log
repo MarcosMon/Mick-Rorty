@@ -1,0 +1,29 @@
+2019-06-11 16:28:55,345 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-11 16:33:05,486 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.lasencinas:Mick-Rorty:0.0.1-SNAPSHOT @ C:\Users\sysma\Desktop\PracticaExamen\Mick-Rorty\Mick-Rorty\pom.xml.
+2019-06-11 16:33:17,259 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mick-Rorty/src/main/java
+2019-06-11 16:33:17,260 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mick-Rorty/src/main/resources
+2019-06-11 16:33:17,298 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mick-Rorty/src/main/resources
+2019-06-11 16:33:17,391 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mick-Rorty/src/test/java
+2019-06-11 16:33:20,154 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 38 sec
+2019-06-11 16:33:20,161 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-11 16:33:22,491 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.lasencinas:Mick-Rorty:0.0.1-SNAPSHOT @ C:\Users\sysma\Desktop\PracticaExamen\Mick-Rorty\Mick-Rorty\pom.xml.
+2019-06-11 16:33:25,656 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mick-Rorty/src/main/java
+2019-06-11 16:33:25,657 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mick-Rorty/src/main/resources
+2019-06-11 16:33:25,669 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mick-Rorty/src/main/resources
+2019-06-11 16:33:25,705 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mick-Rorty/src/test/java
+2019-06-11 16:33:27,491 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2019-06-11 16:33:31,791 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 16:33:31,805 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 16:33:32,080 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 16:33:32,108 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 16:33:32,108 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sysma\Desktop\PracticaExamen\Mick-Rorty\Mick-Rorty\src\test\resources
+2019-06-11 16:36:47,924 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-11 16:36:54,783 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:jpa_basic:0.0.1-SNAPSHOT @ C:\Users\sysma\Desktop\PracticaExamen\Mick-Rorty\Mick-Rorty\pom.xml.
+2019-06-11 16:37:15,082 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mick-Rorty/src/main/java
+2019-06-11 16:37:15,098 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mick-Rorty/src/main/resources
+2019-06-11 16:37:15,098 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mick-Rorty/src/main/resources
+2019-06-11 16:37:15,113 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mick-Rorty/src/test/java
+2019-06-11 16:37:15,723 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 27 sec
+2019-06-11 16:37:17,192 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 16:37:17,192 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 16:37:17,770 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
